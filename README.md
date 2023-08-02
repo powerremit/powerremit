@@ -9,7 +9,7 @@
 
 - 👋 Hi, I’m @powerremit(Jiwon Bang)
 - 👀 I’m interested in Frontend/Backend Engineering
-- 🌱 I’m currently learning JAVA/JSP/Spring
+- 🌱 I’m currently learning JAVA/JSP/Spring/SprinBoot/PHP/CodeIgniter
 - 💞️ I’m looking to collaborate on >> Not at the moment
 - 📫 How to reach me >> powerremit@naver.com
 
